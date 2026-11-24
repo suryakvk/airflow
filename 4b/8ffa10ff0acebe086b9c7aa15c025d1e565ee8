@@ -1,0 +1,19 @@
+docs/spelling_wordlist.txt
+  s_626021cbc7dd9d::t_f26314edc87afb 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4b8ffa10ff0acebe086b9c7aa15c025d1e565ee8",
+  "prompts": {},
+  "sessions": {
+    "s_626021cbc7dd9d": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3c25bc38-250a-423f-86f3-78eb4d2ffd4a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Surya Kotikalapudi <44856649+suryakvk@users.noreply.github.com>"
+    }
+  }
+}
