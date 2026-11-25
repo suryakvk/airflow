@@ -1,0 +1,27 @@
+providers/weaviate/tests/system/weaviate/example_weaviate_swap_alias.py
+  s_626021cbc7dd9d::t_410d32dd029c77 101,107
+providers/weaviate/docs/operators/weaviate.rst
+  s_626021cbc7dd9d::t_73164f1f70bd85 70-72,78-80
+providers/weaviate/tests/unit/weaviate/operators/test_weaviate.py
+  s_626021cbc7dd9d::t_874d40be374726 217,222,228,248,251-254,260,272,279,281,286-289,291-293,305
+  s_626021cbc7dd9d::t_be948296e061a3 249-250,257,262-263,284-285,290,294-295
+  s_626021cbc7dd9d::t_da905777f24194 296
+providers/weaviate/src/airflow/providers/weaviate/operators/weaviate.py
+  s_626021cbc7dd9d::t_ca166007560132 188-192,211,214-215,257-268,276,278-288
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1177911d5c3e3245adb8b0aebbb94af8fba37b2e",
+  "prompts": {},
+  "sessions": {
+    "s_626021cbc7dd9d": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3c25bc38-250a-423f-86f3-78eb4d2ffd4a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Surya Kotikalapudi <44856649+suryakvk@users.noreply.github.com>"
+    }
+  }
+}
